@@ -6,4 +6,4 @@ The work is organized into three levels based on complexity. At the basic level,
 
 Throughout the internship, I used technologies such as Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, BeautifulSoup, and Requests. This experience helped me understand the end-to-end data science workflow, improve my skills in data preprocessing and feature engineering, develop and evaluate machine learning models, generate meaningful insights through data visualization, and work effectively with real-world datasets. As a result, I successfully implemented multiple machine learning models, derived valuable insights from data, and built scalable and reusable data science workflows. The work presented in this repository reflects my learning and practical experience gained during the internship.
 
-**Author:** Sanskruti Barik
+**Author:** Abhishek Kumar
